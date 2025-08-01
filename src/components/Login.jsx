@@ -15,8 +15,8 @@ const onSubmit = async (data) => {
     const { userType, id, password } = data;
 
     const endpoint = userType === 'lawyer'
-      ? 'http://localhost:4001/api/lawyer/login'
-      : 'http://localhost:4001/api/client/login';
+      ? 'https://vakil-backend.onrender.com/api/lawyer/login'
+      : 'https://vakil-backend.onrender.com/api/client/login';
 
     const payload = userType === 'lawyer'
       ? { councilId: id, password }

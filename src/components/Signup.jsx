@@ -15,7 +15,7 @@ function Signup() {
     let payload = {};
 
     if (userType === 'client') {
-      endpoint = 'http://localhost:4001/api/client/signup';
+      endpoint = 'https://vakil-backend.onrender.com/api/client/signup';
 
       payload = {
   aadharNumber: data.aadhaarNumber,
@@ -25,7 +25,7 @@ function Signup() {
 };
 
     } else {
-      endpoint = 'http://localhost:4001/api/lawyer/signup';
+      endpoint = 'https://vakil-backend.onrender.com/api/lawyer/signup';
 
       payload = {
         councilId: data.councilId,
