@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Rajesh Sharma",
+      "specialization": "Criminal Law",
+      "experience": 10,
+      "location": "Mumbai, Maharashtra",
+      "casesInProgress": 5
+    },
+    {
+      "id": 2,
+      "name": "Anjali Mehta",
+      "specialization": "Family Law",
+      "experience": 8,
+      "location": "Pune, Maharashtra",
+      "casesInProgress": 3
+    },
+    {
+      "id": 3,
+      "name": "Vikram Singh",
+      "specialization": "Corporate Law",
+      "experience": 12,
+      "location": "Delhi, India",
+      "casesInProgress": 7
+    },
+    {
+      "id": 4,
+      "name": "Priya Nair",
+      "specialization": "Intellectual Property Law",
+      "experience": 6,
+      "location": "Bangalore, Karnataka",
+      "casesInProgress": 4
+    },
+    {
+      "id": 5,
+      "name": "Arjun Verma",
+      "specialization": "Civil Law",
+      "experience": 7,
+      "location": "Jaipur, Rajasthan",
+      "casesInProgress": 6
+    },
+    {
+      "id": 6,
+      "name": "Sanya Gupta",
+      "specialization": "Environmental Law",
+      "experience": 5,
+      "location": "Kolkata, West Bengal",
+      "casesInProgress": 2
+    },
+    {
+      "id": 7,
+      "name": "Ravi Desai",
+      "specialization": "Taxation Law",
+      "experience": 9,
+      "location": "Ahmedabad, Gujarat",
+      "casesInProgress": 8
+    },
+    {
+      "id": 8,
+      "name": "Aishwarya Iyer",
+      "specialization": "Labor Law",
+      "experience": 6,
+      "location": "Chennai, Tamil Nadu",
+      "casesInProgress": 4
+    },
+    {
+      "id": 9,
+      "name": "Manish Kumar",
+      "specialization": "Property Law",
+      "experience": 4,
+      "location": "Patna, Bihar",
+      "casesInProgress": 3
+    },
+    {
+      "id": 10,
+      "name": "Neha Chawla",
+      "specialization": "Cyber Law",
+      "experience": 5,
+      "location": "Hyderabad, Telangana",
+      "casesInProgress": 5
+    }
+  ]
+  
